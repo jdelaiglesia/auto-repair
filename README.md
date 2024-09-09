@@ -20,4 +20,6 @@ Then, start the development server:
 npm run dev
 ```
 
+If you're experiencing trouble with the image visibility, make sure to edit .env.local accordingly (or .env if you're deploying the web application)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
