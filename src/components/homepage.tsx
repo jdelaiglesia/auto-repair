@@ -150,7 +150,7 @@ export function Homepage() {
                 </ul>
               </div>
               <img
-                src="/homepageTaller.jpg"
+                src={`${basePath}/homepageTaller.jpg`}
                 width="550"
                 height="310"
                 alt="Image"
